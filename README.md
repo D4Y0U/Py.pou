@@ -1,4 +1,4 @@
-# aipou 🤖
+# Py.pou
 
 **Bibliothèque Python minimaliste pour intégrer les APIs IA en une ligne.**
 
