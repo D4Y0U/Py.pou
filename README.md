@@ -198,7 +198,3 @@ except APIError as e:
 ```
 
 ---
-
-## Licence
-
-MIT
